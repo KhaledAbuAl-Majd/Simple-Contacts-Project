@@ -17,42 +17,42 @@ namespace ContactsWinForms
         {
             InitializeComponent();
         }
-        private void _RefreshContactsList()
-        {
-            //automatic way form datatable
-            dgvAllContacts.DataSource = clsContact.GetAllContacts();
-        }
 
+        void _RefereshContactList()
+        {
+            dgvListContacts.DataSource = clsContact.GetAllContacts();
+        }
         private void frmListContacts_Load(object sender, EventArgs e)
         {
-            _RefreshContactsList();
+            _RefereshContactList();
         }
 
-        private void button1_Click(object sender, EventArgs e)
+        private void btnAddNewContact_Click(object sender, EventArgs e)
         {
-            frmAddEditContact frmAddEditContact = new frmAddEditContact(-1);
-            frmAddEditContact.ShowDialog();
-            _RefreshContactsList();
+            //-1 mean add new contact
+            frmAddEditContact frm = new frmAddEditContact(-1);
+            frm.ShowDialog();
+            _RefereshContactList();
         }
-
         private void editToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            frmAddEditContact frm = new frmAddEditContact((int)dgvAllContacts.CurrentRow.Cells[0].Value);
+            frmAddEditContact frm = new frmAddEditContact((int)dgvListContacts.CurrentRow.Cells[0].Value);
             frm.ShowDialog();
-            _RefreshContactsList();
+            _RefereshContactList();
         }
 
         private void deleteToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            if (MessageBox.Show("Are you sure you want to delete Contact [" + dgvAllContacts.CurrentRow.Cells[0].Value) == DialogResult.OK)
+            if(MessageBox.Show("Are you sure you want to delete this Contact?","Confirm",
+                MessageBoxButtons.OKCancel) == DialogResult.OK)
             {
-                if (clsContact.DeleteContact((int)dgvAllContacts.CurrentRow.Cells[0].Value))
+                if (clsContact.DeleteContact((int)dgvListContacts.CurrentRow.Cells[0].Value))
                 {
-                    MessageBox.Show("Contact Delete Successfully.");
-                    _RefreshContactsList();
+                    MessageBox.Show("Contact Deleted Successfully.");
+                    _RefereshContactList();
                 }
                 else
-                    MessageBox.Show("Contact is not deleted!");
+                    MessageBox.Show("Delete Contact Failed!");
             }
         }
     }

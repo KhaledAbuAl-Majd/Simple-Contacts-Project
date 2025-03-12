@@ -2,12 +2,12 @@
 {
     partial class frmListContacts
     {
-        /// <summary>
+        /// <summary> 
         /// Required designer variable.
         /// </summary>
         private System.ComponentModel.IContainer components = null;
 
-        /// <summary>
+        /// <summary> 
         /// Clean up any resources being used.
         /// </summary>
         /// <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
@@ -20,37 +20,45 @@
             base.Dispose(disposing);
         }
 
-        #region Windows Form Designer generated code
+        #region Component Designer generated code
 
-        /// <summary>
-        /// Required method for Designer support - do not modify
+        /// <summary> 
+        /// Required method for Designer support - do not modify 
         /// the contents of this method with the code editor.
         /// </summary>
         private void InitializeComponent()
         {
             this.components = new System.ComponentModel.Container();
-            this.dgvAllContacts = new System.Windows.Forms.DataGridView();
+            this.dgvListContacts = new System.Windows.Forms.DataGridView();
+            this.btnAddNewContact = new System.Windows.Forms.Button();
             this.contextMenuStrip1 = new System.Windows.Forms.ContextMenuStrip(this.components);
             this.editToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.deleteToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.button1 = new System.Windows.Forms.Button();
-            ((System.ComponentModel.ISupportInitialize)(this.dgvAllContacts)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.dgvListContacts)).BeginInit();
             this.contextMenuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
-            // dgvAllContacts
+            // dgvListContacts
             // 
-            this.dgvAllContacts.AllowUserToAddRows = false;
-            this.dgvAllContacts.AllowUserToDeleteRows = false;
-            this.dgvAllContacts.AllowUserToOrderColumns = true;
-            this.dgvAllContacts.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dgvAllContacts.ContextMenuStrip = this.contextMenuStrip1;
-            this.dgvAllContacts.Dock = System.Windows.Forms.DockStyle.Bottom;
-            this.dgvAllContacts.Location = new System.Drawing.Point(0, 145);
-            this.dgvAllContacts.Name = "dgvAllContacts";
-            this.dgvAllContacts.ReadOnly = true;
-            this.dgvAllContacts.Size = new System.Drawing.Size(1067, 379);
-            this.dgvAllContacts.TabIndex = 0;
+            this.dgvListContacts.AllowUserToOrderColumns = true;
+            this.dgvListContacts.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.dgvListContacts.ContextMenuStrip = this.contextMenuStrip1;
+            this.dgvListContacts.Dock = System.Windows.Forms.DockStyle.Bottom;
+            this.dgvListContacts.Location = new System.Drawing.Point(0, 148);
+            this.dgvListContacts.Name = "dgvListContacts";
+            this.dgvListContacts.Size = new System.Drawing.Size(1058, 405);
+            this.dgvListContacts.TabIndex = 0;
+            // 
+            // btnAddNewContact
+            // 
+            this.btnAddNewContact.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnAddNewContact.Location = new System.Drawing.Point(861, 51);
+            this.btnAddNewContact.Name = "btnAddNewContact";
+            this.btnAddNewContact.Size = new System.Drawing.Size(147, 71);
+            this.btnAddNewContact.TabIndex = 1;
+            this.btnAddNewContact.Text = "Add New Contact";
+            this.btnAddNewContact.UseVisualStyleBackColor = true;
+            this.btnAddNewContact.Click += new System.EventHandler(this.btnAddNewContact_Click);
             // 
             // contextMenuStrip1
             // 
@@ -58,7 +66,7 @@
             this.editToolStripMenuItem,
             this.deleteToolStripMenuItem});
             this.contextMenuStrip1.Name = "contextMenuStrip1";
-            this.contextMenuStrip1.Size = new System.Drawing.Size(108, 48);
+            this.contextMenuStrip1.Size = new System.Drawing.Size(181, 70);
             // 
             // editToolStripMenuItem
             // 
@@ -74,27 +82,17 @@
             this.deleteToolStripMenuItem.Text = "Delete";
             this.deleteToolStripMenuItem.Click += new System.EventHandler(this.deleteToolStripMenuItem_Click);
             // 
-            // button1
-            // 
-            this.button1.Location = new System.Drawing.Point(891, 54);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(138, 55);
-            this.button1.TabIndex = 1;
-            this.button1.Text = "button1";
-            this.button1.UseVisualStyleBackColor = true;
-            this.button1.Click += new System.EventHandler(this.button1_Click);
-            // 
             // frmListContacts
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1067, 524);
-            this.Controls.Add(this.button1);
-            this.Controls.Add(this.dgvAllContacts);
+            this.ClientSize = new System.Drawing.Size(1058, 553);
+            this.Controls.Add(this.btnAddNewContact);
+            this.Controls.Add(this.dgvListContacts);
             this.Name = "frmListContacts";
             this.Text = "frmListContacts";
             this.Load += new System.EventHandler(this.frmListContacts_Load);
-            ((System.ComponentModel.ISupportInitialize)(this.dgvAllContacts)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.dgvListContacts)).EndInit();
             this.contextMenuStrip1.ResumeLayout(false);
             this.ResumeLayout(false);
 
@@ -102,11 +100,10 @@
 
         #endregion
 
-        private System.Windows.Forms.DataGridView dgvAllContacts;
-        private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.DataGridView dgvListContacts;
+        private System.Windows.Forms.Button btnAddNewContact;
         private System.Windows.Forms.ContextMenuStrip contextMenuStrip1;
         private System.Windows.Forms.ToolStripMenuItem editToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem deleteToolStripMenuItem;
     }
 }
-

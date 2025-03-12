@@ -1,0 +1,18 @@
+E:\Visual Studio\source\Projects\Courser 18\Contacts Console App Using 3 Tier Arcticture\ContactsBusinessLayer\bin\Debug\ContactsBusinessLayer.dll
+E:\Visual Studio\source\Projects\Courser 18\Contacts Console App Using 3 Tier Arcticture\ContactsBusinessLayer\bin\Debug\ContactsBusinessLayer.pdb
+E:\Visual Studio\source\Projects\Courser 18\Contacts Console App Using 3 Tier Arcticture\ContactsBusinessLayer\bin\Debug\ContactsDataAccessLayer.dll
+E:\Visual Studio\source\Projects\Courser 18\Contacts Console App Using 3 Tier Arcticture\ContactsBusinessLayer\bin\Debug\ContactsDataAccessLayer.pdb
+E:\Visual Studio\source\Projects\Courser 18\Contacts Console App Using 3 Tier Arcticture\ContactsBusinessLayer\obj\Debug\ContactsBusinessLayer.csproj.AssemblyReference.cache
+E:\Visual Studio\source\Projects\Courser 18\Contacts Console App Using 3 Tier Arcticture\ContactsBusinessLayer\obj\Debug\ContactsBusinessLayer.csproj.CoreCompileInputs.cache
+E:\Visual Studio\source\Projects\Courser 18\Contacts Console App Using 3 Tier Arcticture\ContactsBusinessLayer\obj\Debug\Contacts.DFB66D76.Up2Date
+E:\Visual Studio\source\Projects\Courser 18\Contacts Console App Using 3 Tier Arcticture\ContactsBusinessLayer\obj\Debug\ContactsBusinessLayer.dll
+E:\Visual Studio\source\Projects\Courser 18\Contacts Console App Using 3 Tier Arcticture\ContactsBusinessLayer\obj\Debug\ContactsBusinessLayer.pdb
+E:\Visual Studio\source\Projects\Courser 18\ContactsProject\ContactsBusinessLayer\bin\Debug\ContactsBusinessLayer.dll
+E:\Visual Studio\source\Projects\Courser 18\ContactsProject\ContactsBusinessLayer\bin\Debug\ContactsBusinessLayer.pdb
+E:\Visual Studio\source\Projects\Courser 18\ContactsProject\ContactsBusinessLayer\bin\Debug\ContactsDataAccessLayer.dll
+E:\Visual Studio\source\Projects\Courser 18\ContactsProject\ContactsBusinessLayer\bin\Debug\ContactsDataAccessLayer.pdb
+E:\Visual Studio\source\Projects\Courser 18\ContactsProject\ContactsBusinessLayer\obj\Debug\ContactsBusinessLayer.csproj.AssemblyReference.cache
+E:\Visual Studio\source\Projects\Courser 18\ContactsProject\ContactsBusinessLayer\obj\Debug\ContactsBusinessLayer.csproj.CoreCompileInputs.cache
+E:\Visual Studio\source\Projects\Courser 18\ContactsProject\ContactsBusinessLayer\obj\Debug\Contacts.DFB66D76.Up2Date
+E:\Visual Studio\source\Projects\Courser 18\ContactsProject\ContactsBusinessLayer\obj\Debug\ContactsBusinessLayer.dll
+E:\Visual Studio\source\Projects\Courser 18\ContactsProject\ContactsBusinessLayer\obj\Debug\ContactsBusinessLayer.pdb

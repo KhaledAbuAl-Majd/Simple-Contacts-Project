@@ -1,0 +1,16 @@
+E:\Visual Studio\source\Projects\Courser 18\ContactsProject\ContactsWinForms\bin\Debug\ContactsWinForms.exe.config
+E:\Visual Studio\source\Projects\Courser 18\ContactsProject\ContactsWinForms\bin\Debug\ContactsWinForms.exe
+E:\Visual Studio\source\Projects\Courser 18\ContactsProject\ContactsWinForms\bin\Debug\ContactsWinForms.pdb
+E:\Visual Studio\source\Projects\Courser 18\ContactsProject\ContactsWinForms\bin\Debug\ContactsBusinessLayer.dll
+E:\Visual Studio\source\Projects\Courser 18\ContactsProject\ContactsWinForms\bin\Debug\ContactsDataAccessLayer.dll
+E:\Visual Studio\source\Projects\Courser 18\ContactsProject\ContactsWinForms\bin\Debug\ContactsBusinessLayer.pdb
+E:\Visual Studio\source\Projects\Courser 18\ContactsProject\ContactsWinForms\bin\Debug\ContactsDataAccessLayer.pdb
+E:\Visual Studio\source\Projects\Courser 18\ContactsProject\ContactsWinForms\obj\Debug\ContactsWinForms.csproj.AssemblyReference.cache
+E:\Visual Studio\source\Projects\Courser 18\ContactsProject\ContactsWinForms\obj\Debug\ContactsWinForms.frmListContacts.resources
+E:\Visual Studio\source\Projects\Courser 18\ContactsProject\ContactsWinForms\obj\Debug\ContactsWinForms.Properties.Resources.resources
+E:\Visual Studio\source\Projects\Courser 18\ContactsProject\ContactsWinForms\obj\Debug\ContactsWinForms.csproj.GenerateResource.cache
+E:\Visual Studio\source\Projects\Courser 18\ContactsProject\ContactsWinForms\obj\Debug\ContactsWinForms.csproj.CoreCompileInputs.cache
+E:\Visual Studio\source\Projects\Courser 18\ContactsProject\ContactsWinForms\obj\Debug\Contacts.046D79A0.Up2Date
+E:\Visual Studio\source\Projects\Courser 18\ContactsProject\ContactsWinForms\obj\Debug\ContactsWinForms.exe
+E:\Visual Studio\source\Projects\Courser 18\ContactsProject\ContactsWinForms\obj\Debug\ContactsWinForms.pdb
+E:\Visual Studio\source\Projects\Courser 18\ContactsProject\ContactsWinForms\obj\Debug\ContactsWinForms.frmAddEditContact.resources

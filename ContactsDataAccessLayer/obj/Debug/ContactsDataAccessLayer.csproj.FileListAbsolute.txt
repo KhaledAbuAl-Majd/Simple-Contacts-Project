@@ -1,0 +1,12 @@
+E:\Visual Studio\source\Projects\Courser 18\Contacts Console App Using 3 Tier Arcticture\ContactsDataAccessLayer\bin\Debug\ContactsDataAccessLayer.dll
+E:\Visual Studio\source\Projects\Courser 18\Contacts Console App Using 3 Tier Arcticture\ContactsDataAccessLayer\bin\Debug\ContactsDataAccessLayer.pdb
+E:\Visual Studio\source\Projects\Courser 18\Contacts Console App Using 3 Tier Arcticture\ContactsDataAccessLayer\obj\Debug\ContactsDataAccessLayer.csproj.AssemblyReference.cache
+E:\Visual Studio\source\Projects\Courser 18\Contacts Console App Using 3 Tier Arcticture\ContactsDataAccessLayer\obj\Debug\ContactsDataAccessLayer.csproj.CoreCompileInputs.cache
+E:\Visual Studio\source\Projects\Courser 18\Contacts Console App Using 3 Tier Arcticture\ContactsDataAccessLayer\obj\Debug\ContactsDataAccessLayer.dll
+E:\Visual Studio\source\Projects\Courser 18\Contacts Console App Using 3 Tier Arcticture\ContactsDataAccessLayer\obj\Debug\ContactsDataAccessLayer.pdb
+E:\Visual Studio\source\Projects\Courser 18\ContactsProject\ContactsDataAccessLayer\bin\Debug\ContactsDataAccessLayer.dll
+E:\Visual Studio\source\Projects\Courser 18\ContactsProject\ContactsDataAccessLayer\bin\Debug\ContactsDataAccessLayer.pdb
+E:\Visual Studio\source\Projects\Courser 18\ContactsProject\ContactsDataAccessLayer\obj\Debug\ContactsDataAccessLayer.csproj.AssemblyReference.cache
+E:\Visual Studio\source\Projects\Courser 18\ContactsProject\ContactsDataAccessLayer\obj\Debug\ContactsDataAccessLayer.csproj.CoreCompileInputs.cache
+E:\Visual Studio\source\Projects\Courser 18\ContactsProject\ContactsDataAccessLayer\obj\Debug\ContactsDataAccessLayer.dll
+E:\Visual Studio\source\Projects\Courser 18\ContactsProject\ContactsDataAccessLayer\obj\Debug\ContactsDataAccessLayer.pdb
